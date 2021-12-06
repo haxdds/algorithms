@@ -1,3 +1,8 @@
 # algorithms
 
-to test algo run ```pytest tests/test.py```
+
+
+add testing data to ```tests/testing_data.json``` 
+and write tests in ```tests/tests.py```
+
+to run tests ```pytest tests/tests.py```
