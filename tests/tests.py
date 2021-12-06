@@ -1,5 +1,5 @@
 import json
-from selection_sort import selection_sort
+from ..sorting.decrease_and_conquer.selection_sort import selection_sort
 f = open('./sorting/testing_data.json')
 
 tests = json.load(f)
